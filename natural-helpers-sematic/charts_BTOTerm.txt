@@ -1,0 +1,27 @@
+& \textbf{R@-RT vs RT} & \textbf{R@-H vs H} & \textbf{R@-CH vs CH} & \textbf{NCH vs @-NCH-NH} & \textbf{CH vs @-NCH-NH} \\
+POSEMO & 0.02948391 & 0.20551128 & 0.37135089 & 0.36680912 & 0.37166681 \\
+NEGEMO & \textbf{0.00000000} & \textbf{0.00000000} & \textbf{0.00024775} & \textbf{0.00000000} & \textbf{0.00010811} \\
+Openness & 0.20644403 & 0.74570157 & 0.89159303 & 0.00130200 & 0.84209133 \\
+Agreeableness & \textbf{0.00000000} & \textbf{0.00000000} & \textbf{0.00000030} & \textbf{0.00000000} & \textbf{0.00000007} \\
+Conscientiousness & \textbf{0.00000066} & \textbf{0.00000015} & \textbf{0.00046279} & \textbf{0.00000000} & \textbf{0.00028311} \\
+Neuroticism & \textbf{0.00000003} & \textbf{0.00003697} & 0.04674145 & \textbf{0.00000000} & 0.03148657 \\
+Extraversion & 0.42043373 & 0.19301359 & 0.98629711 & \textbf{0.00003201} & 0.92043073 \\
+
+& \textbf{R@, NCH, CH ANOVA} & \textbf{R@, RT, H, and CH ANOVA} \\
+POSEMO & 0.46883187 & 0.14197009 \\
+NEGEMO & \textbf{0.00000000} & \textbf{0.00000000} \\
+Openness & 0.00965148 & 0.52741494 \\
+Agreeableness & \textbf{0.00000000} & \textbf{0.00000000} \\
+Conscientiousness & \textbf{0.00000000} & \textbf{0.00000000} \\
+Neuroticism & \textbf{0.00000000} & \textbf{0.00000000} \\
+Extraversion & \textbf{0.00039242} & 0.31273189 \\
+
+& \textbf{R@} & \textbf{RT} & \textbf{H} & \textbf{CH} & \textbf{NCH} \\
+POSEMO & 4.62027096 & 4.40151320 & 4.40431921 & 4.38686390 & 4.55295172 \\
+NEGEMO & 4.72183040 & 5.40622942 & 5.68453898 & 5.62287184 & 5.63616006 \\
+Openness & 0.02236748 & 0.02333157 & 0.02195719 & 0.02210357 & 0.02055577 \\
+Agreeableness & -0.00561558 & -0.01003104 & -0.01293807 & -0.01315413 & -0.01135054 \\
+Conscientiousness & -0.00030842 & -0.00260321 & -0.00446578 & -0.00454675 & -0.00373378 \\
+Neuroticism & -0.00513396 & -0.00671013 & -0.00713491 & -0.00661063 & -0.00712869 \\
+Extraversion & 0.02236748 & 0.02333157 & 0.02195719 & 0.02210357 & 0.02055577 \\
+

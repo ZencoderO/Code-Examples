@@ -1,0 +1,80 @@
+***** at_graph_BTTerm.pkl ******
+|V|: 	13205
+|E|: 	18093
+Triangles: 	1
+Ave clustering: 	0.086809
+Ave degree: 	2.740326
+***** at_no_onesies_BTTerm.pkl ******
+|V|: 	6614
+|E|: 	12619
+Triangles: 	2
+Ave clustering: 	0.201787
+Ave degree: 	3.815845
+***** thank_you_graph_BTTerm.pkl ******
+|V|: 	1567
+|E|: 	1062
+Triangles: 	0
+Ave clustering: 	0.021527
+Ave degree: 	1.355456
+***** thank_you_no_binaries_BTTerm.pkl ******
+|V|: 	759
+|E|: 	658
+Triangles: 	0
+Ave clustering: 	0.044443
+Ave degree: 	1.733860
+***** thank_you_no_onesies_BTTerm.pkl ******
+|V|: 	332
+|E|: 	231
+Triangles: 	0
+Ave clustering: 	0.140060
+Ave degree: 	1.391566
+***** at_graph_BTTerm.pkl in thank_you_multidigraph_BTTerm.pkl ******
+|V|: 	13205
+ave messages: 	2.318516
+link ave: 	0.000176
+reciprocity: 	0.193510
+***** at_no_onesies_BTTerm.pkl in thank_you_multidigraph_BTTerm.pkl ******
+|V|: 	6614
+ave messages: 	4.120653
+link ave: 	0.000623
+reciprocity: 	0.227556
+***** thank_you_graph_BTTerm.pkl in thank_you_multidigraph_BTTerm.pkl ******
+|V|: 	1567
+ave messages: 	10.121889
+link ave: 	0.006464
+reciprocity: 	0.428601
+***** thank_you_no_binaries_BTTerm.pkl in thank_you_multidigraph_BTTerm.pkl ******
+|V|: 	759
+ave messages: 	14.741765
+link ave: 	0.019448
+reciprocity: 	0.422766
+***** thank_you_no_onesies_BTTerm.pkl in thank_you_multidigraph_BTTerm.pkl ******
+|V|: 	332
+ave messages: 	23.948795
+link ave: 	0.072353
+reciprocity: 	0.427947
+***** at_graph_BTTerm.pkl in at_multidigraph.pkl ******
+|V|: 	13205
+ave messages: 	45.005604
+link ave: 	0.003408
+reciprocity: 	0.415442
+***** at_no_onesies_BTTerm.pkl in at_multidigraph.pkl ******
+|V|: 	6614
+ave messages: 	79.863774
+link ave: 	0.012077
+reciprocity: 	0.480139
+***** thank_you_graph_BTTerm.pkl in at_multidigraph.pkl ******
+|V|: 	1567
+ave messages: 	165.610083
+link ave: 	0.105754
+reciprocity: 	0.633151
+***** thank_you_no_binaries_BTTerm.pkl in at_multidigraph.pkl ******
+|V|: 	759
+ave messages: 	242.554677
+link ave: 	0.319993
+reciprocity: 	0.653618
+***** thank_you_no_onesies_BTTerm.pkl in at_multidigraph.pkl ******
+|V|: 	332
+ave messages: 	386.463855
+link ave: 	1.167565
+reciprocity: 	0.717134

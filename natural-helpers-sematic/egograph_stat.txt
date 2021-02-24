@@ -1,0 +1,30 @@
+***** at_graph.pkl ******
+Core Number Avg 	1.32699734949
+Connected Component Avg 	2.00681560015
+Triangle Avg 	1.01188943582
+Coefficient Avg 	0.147671713707
+Ego Net Size Avg 	3.75221507005
+***** at_no_onesies.pkl ******
+Core Number Avg 	1.61626852132
+Connected Component Avg 	2.35137586937
+Triangle Avg 	2.02026005443
+Coefficient Avg 	0.319945133182
+Ego Net Size Avg 	5.83610523133
+***** thank_you_graph.pkl ******
+Core Number Avg 	1.02598870056
+Connected Component Avg 	1.21920903955
+Triangle Avg 	0.0305084745763
+Coefficient Avg 	0.0176987795632
+Ego Net Size Avg 	1.2802259887
+***** thank_you_no_binaries.pkl ******
+Core Number Avg 	1.06371191136
+Connected Component Avg 	1.53739612188
+Triangle Avg 	0.0747922437673
+Coefficient Avg 	0.0433889748294
+Ego Net Size Avg 	1.68698060942
+***** thank_you_no_onesies.pkl ******
+Core Number Avg 	0.798611111111
+Connected Component Avg 	0.840277777778
+Triangle Avg 	0.1875
+Coefficient Avg 	0.138194444444
+Ego Net Size Avg 	1.21527777778
